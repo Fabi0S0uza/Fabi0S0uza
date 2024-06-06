@@ -31,11 +31,5 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Dom 
 ![Git](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
 
----
-
-### Estatísticas:
-
-[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
 
 

@@ -1,6 +1,6 @@
 ### Olá, eu sou o Fabi0S0uza ![Abanando](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
-Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Dom Paulo Evaristo ARNS**, e estou em busca de um estágio na área de **desenvolvimento mobile** para aprender com uma equipe experiente e crescer profissionalmente dentro de uma empresa. Tenho uma forte paixão por tecnologia e estou ansioso para aplicar meus conhecimentos em um ambiente de trabalho colaborativo.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Dom Paulo Evaristo ARNS**, Tenho uma forte paixão por tecnologia.
 
 ---
 
@@ -10,18 +10,15 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Dom 
 
 📱 LinkedIn: [www.linkedin.com/in/fabio-souza-12f](https://www.linkedin.com/in/fabio-souza-12f)
 
-💻 GitHub: [github.com/Fabi0S0uza](https://github.com/Fabi0S0uza)
-
 ---
 
 ### Habilidades:
 
 #### Linguagens de Programação:
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) 
-![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+
 
 #### Banco de Dados:
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)

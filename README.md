@@ -15,7 +15,8 @@ Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Dom 
 ### Habilidades:
 
 #### Linguagens de Programação:
-![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/ba)
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white) 
 
